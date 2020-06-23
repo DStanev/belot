@@ -1,4 +1,4 @@
-package com.belot.graphics;
+package com.belot.main;
 
 import com.vaadin.flow.component.UI;
 import com.vaadin.flow.component.login.LoginForm;

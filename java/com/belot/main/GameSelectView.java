@@ -1,4 +1,4 @@
-package com.belot.graphics;
+package com.belot.main;
 
 import com.belot.logic.GameManager;
 import com.vaadin.flow.component.ClickEvent;

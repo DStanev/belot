@@ -1,4 +1,4 @@
-package com.belot.graphics;
+package com.belot.main;
 
 import java.util.HashSet;
 import java.util.LinkedList;
